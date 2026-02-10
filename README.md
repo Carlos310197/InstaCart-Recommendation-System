@@ -2,10 +2,7 @@
 
 ## Video of the demo
 
-<video controls width="800">
-  <source src="assets/demo_video.mov" type="video/quicktime">
-  Your browser does not support the video tag. You can download the video from assets/demo_video.mov.
-</video>
+[![Demo video (GIF preview)](assets/demo_video.gif)](assets/demo_video.mov)
 
 ## Project structure
 
