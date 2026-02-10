@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Data artifacts
+*.parquet
+*.csv
+*.pkl
+*.joblib
+
+# Model artifacts
+*.onnx
+*.pt
+*.pth
+*.bin
+*.h5
+*.hdf5
+*.model
+*.jsonl
+
+# Local configs
+*.local
