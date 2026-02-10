@@ -45,3 +45,7 @@ ENV/
 
 # Local configs
 *.local
+
+# files
+challenge.pdf
+Hybrid_Recommender.ipynb

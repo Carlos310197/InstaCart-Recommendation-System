@@ -73,7 +73,7 @@ This writes feature tables into [data/features/](data/features/) using [preproce
 
 ## Run the backend
 
-From the project root:
+In one terminal, from the project root, run:
 
 ```bash
 python backend/src/app.py
@@ -91,6 +91,8 @@ gunicorn -c backend/gunicorn.conf.py backend.src.app:app
 ---
 
 ## Run the Streamlit app
+
+In one terminal, from the project root, run:
 
 ```bash
 streamlit run frontend/streamlit_app.py
