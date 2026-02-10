@@ -1,5 +1,12 @@
 # Instacart Recommendation System
 
+## Video of the demo
+
+<video controls width="800">
+  <source src="assets/demo_video.mov" type="video/quicktime">
+  Your browser does not support the video tag. You can download the video from assets/demo_video.mov.
+</video>
+
 ## Project structure
 
 - **Challenge prompt**: [Challenge.md](Challenge.md)
